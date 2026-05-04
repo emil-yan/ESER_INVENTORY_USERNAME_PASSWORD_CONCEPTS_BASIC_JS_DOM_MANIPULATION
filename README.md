@@ -1,0 +1,2 @@
+# ESER_INVENTORY_USERNAME_PASSWORD_CONCEPTS_BASIC_JS_DOM_MANIPULATION
+Activity for Multi Media Development - Basic Dom Manipulation
